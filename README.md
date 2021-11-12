@@ -1,6 +1,6 @@
 # kicad_project
 
-#Pravallika Saladi
+#Pravallika Saladi /n
 ##119EC0013
 
 Project done as part of Prototyping Lab.
