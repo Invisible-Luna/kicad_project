@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name df10s)(type Legacy)(uri C:/Users/Ravi/df10s.lib)(options "")(descr ""))
+  (lib (name BTA16-600CW3G)(type Legacy)(uri ${KIPRJMOD}/BTA16-600CW3G/BTA16-600CW3G.lib)(options "")(descr ""))
+  (lib (name DF10S)(type Legacy)(uri ${KIPRJMOD}/DF10S/DF10S.lib)(options "")(descr ""))
+)
