@@ -1,7 +1,7 @@
 # kicad_project
 
-#Pravallika Saladi /n
-##119EC0013
+#Pravallika Saladi <br />
+##119EC0013 <br />
 
 Project done as part of Prototyping Lab.
 Project Name: Fan Dimmer with PWM
