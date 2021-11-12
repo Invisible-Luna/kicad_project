@@ -1,0 +1,28 @@
+Drill report for C:/Users/Ravi/Desktop/Pravallika/my kicad/fan dimmer/fan dimmer.kicad_pcb
+Created on 11/11/21 09:49:09
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'fan dimmer-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.730mm  0.0287"  (6 holes)
+    T2  0.762mm  0.0300"  (4 holes)
+    T3  0.800mm  0.0315"  (14 holes)
+    T4  0.900mm  0.0354"  (6 holes)
+    T5  1.100mm  0.0433"  (4 holes)
+    T6  1.190mm  0.0469"  (3 holes)
+    T7  1.500mm  0.0591"  (2 holes)
+
+    Total plated holes count 39
+
+
+Drill file 'fan dimmer-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0

@@ -1,0 +1,203 @@
+Cmp-Mod V01 Created by PcbNew   date = 11/11/21 09:13:53
+
+BeginCmp
+TimeStamp = 618C3845
+Path = /618C1576
+Reference = Battery1;
+ValeurCmp = 9v;
+IdModule  = Battery:BatteryHolder_Keystone_107_1x23mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 618C3893
+Path = /618E8F7D
+Reference = C2;
+ValeurCmp = 10nF;
+IdModule  = Capacitor_SMD:CP_Elec_3x5.3;
+EndCmp
+
+BeginCmp
+TimeStamp = 618C386C
+Path = /618C4C27
+Reference = C1;
+ValeurCmp = 47nF;
+IdModule  = Capacitor_SMD:CP_Elec_3x5.3;
+EndCmp
+
+BeginCmp
+TimeStamp = 618C3BAE
+Path = /618CDAEB
+Reference = U4;
+ValeurCmp = LM555xN;
+IdModule  = Package_DIP:DIP-8_W7.62mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 618C3AD2
+Path = /618D7E60
+Reference = R10;
+ValeurCmp = 220;
+IdModule  = Resistor_SMD:R_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 618C3AC1
+Path = /618C3EDE
+Reference = R9;
+ValeurCmp = 10k;
+IdModule  = Resistor_SMD:R_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 618C3AB0
+Path = /618C39F6
+Reference = R8;
+ValeurCmp = 100k;
+IdModule  = Resistor_SMD:R_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 618C3A9F
+Path = /618C33A4
+Reference = R7;
+ValeurCmp = 10k;
+IdModule  = Resistor_SMD:R_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 618ADFB2
+Path = /618A9D94
+Reference = J1;
+ValeurCmp = Conn_01x02_Male;
+IdModule  = LED_THT:LED_D3.0mm_Clear;
+EndCmp
+
+BeginCmp
+TimeStamp = 618C3983
+Path = /618D87C9
+Reference = D6;
+ValeurCmp = LED;
+IdModule  = LED_THT:LED_D3.0mm_Clear;
+EndCmp
+
+BeginCmp
+TimeStamp = 618C396F
+Path = /61905D92
+Reference = D5;
+ValeurCmp = 1N4007;
+IdModule  = Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 618C3950
+Path = /61906D49
+Reference = D4;
+ValeurCmp = 1N4007;
+IdModule  = Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 618AE07E
+Path = /61964080
+Reference = U2;
+ValeurCmp = DF10S;
+IdModule  = DF10S:SOT508P985X260-4N;
+EndCmp
+
+BeginCmp
+TimeStamp = 618AE04E
+Path = /6196E4F6
+Reference = U1;
+ValeurCmp = MOC3021;
+IdModule  = MOC3021:DIP762W45P254L889H508Q6;
+EndCmp
+
+BeginCmp
+TimeStamp = 618ADF97
+Path = /61950D29
+Reference = D3;
+ValeurCmp = BTA16-600CW3G;
+IdModule  = BTA16-600CW3G:TO254P1028X482X1968-3;
+EndCmp
+
+BeginCmp
+TimeStamp = 618ADFCF
+Path = /618B3E70
+Reference = J2;
+ValeurCmp = Conn_01x04_Male;
+IdModule  = Connector:NS-Tech_Grove_1x04_P2mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 618AE098
+Path = /618B0AED
+Reference = U3;
+ValeurCmp = 4N25;
+IdModule  = Package_DIP:DIP-6_W7.62mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 618AE035
+Path = /618B7794
+Reference = R6;
+ValeurCmp = 10k;
+IdModule  = Resistor_SMD:R_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 618AE024
+Path = /618AFC7C
+Reference = R5;
+ValeurCmp = 1k;
+IdModule  = Resistor_SMD:R_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 618B0D0C
+Path = /618AB677
+Reference = R4;
+ValeurCmp = 30k;
+IdModule  = Resistor_SMD:R_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 618AE002
+Path = /618AAFD5
+Reference = R3;
+ValeurCmp = 30k;
+IdModule  = Resistor_SMD:R_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 618AE6B1
+Path = /618A5460
+Reference = R2;
+ValeurCmp = 1k;
+IdModule  = Resistor_SMD:R_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 618ADFE0
+Path = /6189EDA2
+Reference = R1;
+ValeurCmp = 1k;
+IdModule  = Resistor_SMD:R_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 618ADF82
+Path = /618A6AF9
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LED_THT:LED_D3.0mm_Horizontal_O6.35mm_Z2.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 618ADF58
+Path = /6189E274
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LED_SMD:LED_0603_1608Metric_Castellated;
+EndCmp
+
+EndListe
